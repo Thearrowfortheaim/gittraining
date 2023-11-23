@@ -2,3 +2,7 @@ Hello Alex
 first Entry
 second Entry
 third Entry
+
+New entries in the second branch
+New Entry 2
+New Entry 3
